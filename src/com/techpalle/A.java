@@ -10,8 +10,10 @@ public class A
   {
 	  
   }
-  public A(int i)
+  public A(int i,int j,int k)
   {
     this.i=i;
+    this.j=j;
+    this.k=k;
   }
 }
