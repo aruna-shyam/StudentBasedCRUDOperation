@@ -2,5 +2,11 @@ package com.techpalle;
 
 public class A
 {
-  public int i=200;
+  public int i;
+  public int j;
+  public int k;
+  public A(int i)
+  {
+    this.i=i;
+  }
 }
